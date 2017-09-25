@@ -1,0 +1,17 @@
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\SA45Team3a_LMS.exe.config
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\SA45Team3a_LMS.exe
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\SA45Team3a_LMS.pdb
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\CustomerMenu.dll
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\EntityFramework.dll
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\CustomerMenu.pdb
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\CustomerMenu.dll.config
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\EntityFramework.xml
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.csprojResolveAssemblyReference.cache
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.Properties.Resources.resources
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.Return.resources
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.Staff_Menu.resources
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.csproj.GenerateResource.Cache
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.exe
+C:\Users\czolb\Dropbox\SA45\projects\SA45Team3a_LMS\SA45Team3a_LMS\obj\Debug\SA45Team3a_LMS.pdb
